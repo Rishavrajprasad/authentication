@@ -5,7 +5,7 @@ This project implements an Authentication API using Node.js and Express.js.
 ## Project Setup
 
 ### Clone the Repository
-git clone <repository_url>
+git clone https://github.com/Rishavrajprasad/authentication
 ### Install Dependencies
 bash
 
